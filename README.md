@@ -1,4 +1,6 @@
 # Job-shop-scheduling-problem
+This is a 10x10 Job shop problem. There are 10 workpieces and 10 machines. Each workpiece is processed in a different order on each machine. The scheduling goal is to minimize the total completion time (Makespan). The data is based on the workpiece. The sequence of processing operations is presented. Each workpiece will go through 10 processing operations. The following table records the processing machine and processing time required for each workpiece in each processing operation.
+
 ### Processing_time
 ![image](https://github.com/Eason0227/Job-shop-scheduling-problem/assets/102510341/7d659a7e-56d0-4358-9de8-e0eee07b55b2)
 ### Machine_sequence
